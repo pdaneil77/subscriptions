@@ -8,7 +8,8 @@
       "endDate": "2026-03-31",
       "amount": 15.50,
       "status": "paid",
-      "plan": "Basic"
+      "plan": "Basic",
+      "billingCycle": "monthly"
     },
     {
       "id": "2",
@@ -18,7 +19,8 @@
       "endDate": "2026-03-31",
       "amount": 36.21,
       "status": "paid",
-      "plan": "Professional"
+      "plan": "Professional",
+      "billingCycle": "monthly"
     }
   ]
 }
